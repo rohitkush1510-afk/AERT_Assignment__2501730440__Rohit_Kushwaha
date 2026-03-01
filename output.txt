@@ -1,0 +1,60 @@
+Testing Stack ADT... 
+
+Stack size: 3 
+Top element: 30 
+Popped element: 30 
+Stack size after pop: 2 
+
+
+Testing Factorial... 
+
+Factorial of 0 = 1 
+Factorial of 1 = 1 
+Factorial of 5 = 120 
+Factorial of 10 = 3628800 
+
+
+Testing Fibonacci... 
+
+n = 5 
+Naive Fibonacci: 5 
+Naive Call Count: 15 
+Memoized Fibonacci: 5 
+Memoized Call Count: 9 
+n = 10 
+Naive Fibonacci: 55 
+Naive Call Count: 177 
+Memoized Fibonacci: 55 
+Memoized Call Count: 19 
+n = 20 
+Naive Fibonacci: 6765 
+Naive Call Count: 21891 
+Memoized Fibonacci: 6765 
+Memoized Call Count: 39 
+n = 30 
+Naive Fibonacci: 832040 
+Naive Call Count: 2692537 
+Memoized Fibonacci: 832040 
+Memoized Call Count: 59 
+
+
+
+Tower of Hanoi for n = 3 (Using Stack) 
+
+Move disk 1 from A to C 
+Move disk 2 from B to C 
+Move disk 1 from B to A 
+Move disk 3 from A to C 
+Move disk 1 from C to B 
+Move disk 2 from A to B 
+Move disk 1 from A to C 
+
+
+
+Testing Recursive Binary Search 
+
+Searching 7: Index = 3 
+Searching 1: Index = 0 
+Searching 13: Index = 6 
+Searching 2: Index = -1 
+Searching in empty array: -1
